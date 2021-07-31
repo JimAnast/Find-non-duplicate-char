@@ -1,9 +1,5 @@
 def findNonDuplicate(A):
-    # Given an input list A of character, which is sorted in an increasing order,
-    # and each character is duplicated except one which corresponds to the non-duplicate character in the list.
-    # you need to find the non duplicate character
-    # Your code below
-
+  
     uniqueElement=''
 
     low = 0
